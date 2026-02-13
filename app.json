@@ -2,7 +2,7 @@
   "expo": {
     "name": "ApiTesterMobile",
     "slug": "ApiTesterMobile",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "backgroundColor": "#1e085a",
@@ -24,7 +24,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "com.apitester.mobile"
     },
     "web": {
       "favicon": "./assets/favicon.png"
